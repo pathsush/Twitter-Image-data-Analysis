@@ -34,7 +34,8 @@ Cleaning Data  	Quality Issue
 •	Make the source content specific 
 
 ## Tidiness Issue  
-• 	There are 3 different data frame that is used it can be merged one.  • 	Dropping 4 different column of dogtypes to include in one column.  
+• 	There are 3 different data frame that is used it can be merged one.  
+• 	Dropping 4 different column of dogtypes to include in one column.  
 
 ## Conclusion  
 During the wrangling process there are lot of unclean data that needed to clean. All those issue has been cleaned. During this task, I get to know that though there might be the data but it might have many discrepancy and that needed to be clean. This need to be visualized in order to get more insight about the data.  
